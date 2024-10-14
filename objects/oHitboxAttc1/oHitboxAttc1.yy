@@ -35,5 +35,5 @@
     "path":"sprites/sPlayer_atack1HB/sPlayer_atack1HB.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }
