@@ -1,7 +1,7 @@
 # Dungeon_2dgame_GM
 Primeira vez que uso o Game Maker, estou aprendendo o básico das funcionalidades da engine 
 
-Player:
+#### Player
 - movimentação
 - ataques
 - state machine
@@ -10,10 +10,13 @@ Player:
 - morre nos espinhos
 - coleta caixas
 
-Inimigo:
+#### Inimigo
  - olha em direção ao player
  - tem barra de vida e é deletado quado zerada
 
+#### Outros
+- Adicionar mapa
+- editar sprites no geral
 ...
 continuo no aprendizado
 
@@ -21,7 +24,7 @@ continuo no aprendizado
 
 
 
-Fontes:
+### Fontes
 - Sprite dos personages -> https://zerie.itch.io/tiny-rpg-character-asset-pack?download
 - Sprite do mapa -> https://pixel-poem.itch.io/dungeon-assetpuck
 
