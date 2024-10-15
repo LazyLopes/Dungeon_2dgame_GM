@@ -19,9 +19,10 @@ continuo no aprendizado
 
 
 
-Fontes:
 
-Sprite dos personages -> https://zerie.itch.io/tiny-rpg-character-asset-pack?download \n
-Sprite do mapa -> https://pixel-poem.itch.io/dungeon-assetpuck
+
+Fontes:
+- Sprite dos personages -> https://zerie.itch.io/tiny-rpg-character-asset-pack?download
+- Sprite do mapa -> https://pixel-poem.itch.io/dungeon-assetpuck
 
 
