@@ -1,5 +1,8 @@
+
 # Dungeon_2dgame_GM
 Primeira vez que uso o Game Maker, estou aprendendo o básico das funcionalidades da engine 
+
+![Logo](https://imgur.com/dZ0f9ib.png)
 
 #### Player
 - movimentação
@@ -20,12 +23,9 @@ Primeira vez que uso o Game Maker, estou aprendendo o básico das funcionalidade
 ...
 continuo no aprendizado
 
-
-
-
-
 ### Fontes
 - Sprite dos personages -> https://zerie.itch.io/tiny-rpg-character-asset-pack?download
 - Sprite do mapa -> https://pixel-poem.itch.io/dungeon-assetpuck
+
 
 
